@@ -19,10 +19,9 @@ def min_(*son):
         if i < katta:
             katta = i
     return katta
-a = lambda son: son ** 2
-print(a)
-a = int(input("Son"))
-print(a**2)
+a = int(input())
+b = int(input())
+print(a+b)
 # ========================================= '<' , '>' and '=' =========================================
 
 # def katta(son1,son2):
