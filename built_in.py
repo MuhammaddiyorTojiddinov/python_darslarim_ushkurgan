@@ -21,6 +21,8 @@ def min_(*son):
     return katta
 a = lambda son: son ** 2
 print(a)
+a = int(input("Son"))
+print(a**2)
 # ========================================= '<' , '>' and '=' =========================================
 
 # def katta(son1,son2):
