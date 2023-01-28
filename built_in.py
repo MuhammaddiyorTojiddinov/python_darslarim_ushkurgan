@@ -19,7 +19,8 @@ def min_(*son):
         if i < katta:
             katta = i
     return katta
-
+a = lambda son: son ** 2
+print(a)
 # ========================================= '<' , '>' and '=' =========================================
 
 # def katta(son1,son2):
