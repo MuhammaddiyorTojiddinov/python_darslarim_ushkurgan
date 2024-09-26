@@ -19,7 +19,9 @@ def min_(*son):
         if i < katta:
             katta = i
     return katta
-
+a = int(input())
+b = int(input())
+print(a+b)
 # ========================================= '<' , '>' and '=' =========================================
 
 # def katta(son1,son2):
